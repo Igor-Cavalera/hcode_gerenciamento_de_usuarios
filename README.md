@@ -8,7 +8,7 @@ Interface completa:
 
 Excluindo um usuário: 
 
-![47ky1o](https://user-images.githubusercontent.com/66530386/86873384-8f5b6800-c0b4-11ea-8d60-ea5ecc441e02.gif)
+![ezgif com-crop](https://user-images.githubusercontent.com/66530386/86878339-10b7f800-c0bf-11ea-94b3-d5d48f39a2b0.gif)
 
 Formulário: 
 
